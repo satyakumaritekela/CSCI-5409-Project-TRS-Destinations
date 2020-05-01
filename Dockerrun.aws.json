@@ -1,0 +1,11 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "canadatrs/trs_destinations:latest"
+  },
+  "Ports": [
+    {
+      "ContainerPort": "5001"
+    }
+  ]
+}
